@@ -457,3 +457,10 @@ out on the Avalanche Discord._
 <p align="center">
   <a href="https://github.com/ava-labs/hypersdk"><img width="40%" alt="tokenvm" src="assets/hypersdk.png"></a>
 </p>
+
+# Authors
+
+Ashwath R
+
+ashwathraju85@gmail.com
+
